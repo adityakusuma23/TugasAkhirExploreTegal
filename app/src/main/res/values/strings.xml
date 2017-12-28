@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExploreTegal</string>
+    <string name="slogan">Explore Tegal merupakan aplikasi yang memberikan informasi kepada turis yang akan berkunjung mengenai berbagai tempat wisata kuliner yang ada di Kota Tegal. </string>
+    <string name="nomordarurat">
+        Polisi\n
+        1. Polres Tegal (0283) 491111\n
+        2. Polsek Slawi (0283) 6168200\n
+        \n
+        Rumah Sakit Kota Tegal\n
+        1. RSUD Kardinah (0283) 356067\n
+        2. RSU Islam Harapan Anda (0283) 355717\n
+        \n
+        Rumah Sakit Kabupaten Tegal\n
+        1. RSUD DR Soeselo (0283) 491016\n
+        2. Rumah Sakit Islam PKU Muhammadiyah (0283) 443531\n
+        \n
+        Bengkel mobil\n
+        1. Honda Tegal Raya (0283) 320111\n
+        2. Nasmoco Tegal (0283) 350866\n
+
+
+    </string>
+</resources>

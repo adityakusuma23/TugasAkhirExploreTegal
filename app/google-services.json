@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "224897678786",
+    "firebase_url": "https://exploretegal-2bd81.firebaseio.com",
+    "project_id": "exploretegal-2bd81",
+    "storage_bucket": "exploretegal-2bd81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224897678786:android:cc68703dc94526de",
+        "android_client_info": {
+          "package_name": "net.aditkus.exploretegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224897678786-nif5g3uechapb9uquv6nn5knqb47kmit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.aditkus.exploretegal",
+            "certificate_hash": "f57bdb1792d8c3f857aedd85d693d082e035201c"
+          }
+        },
+        {
+          "client_id": "224897678786-p7okjin9jjgav8p58nn0efmtgv81cvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwRzhSWOxYow3MqccxfYeenj6CsFX268"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224897678786-p7okjin9jjgav8p58nn0efmtgv81cvig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
